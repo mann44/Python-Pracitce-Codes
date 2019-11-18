@@ -16,4 +16,6 @@ VARIABLE RULES:
 name = "manthan"
 hell0 = 0
 print("hello :", hell0)
+
+print("Itsme")
 print("Its a git test",name)
