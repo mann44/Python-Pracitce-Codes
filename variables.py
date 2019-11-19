@@ -1,5 +1,5 @@
 # A variable is a container for a value, which can be of various types
-
+#Manthan Gajjar
 '''
 This is a 
 multiline comment
@@ -35,5 +35,5 @@ print(type(x))
 
 #Casting
 x = str(c)
-print("Its Casting into a String: ", x)
+print("Its Casting into a String: "+x)
 
