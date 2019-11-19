@@ -13,9 +13,27 @@ VARIABLE RULES:
   - Must start with a letter or an underscore
   - Can have numbers but can not start with one
 """
+#Single Line
 name = "manthan"
 hell0 = 0
-print("hello :", hell0)
+print("Single Line Var:", hell0, name)
 
-print("Itsme")
-print("Its a git test",name)
+#Multiline
+x , y, name, is_cool = (4, 24, "Mann", True)
+
+print(x,y,name,is_cool)
+
+#Math
+
+c = x + y
+
+print("c:",c)
+
+#Check Type
+
+print(type(x))
+
+#Casting
+x = str(c)
+print("Its Casting into a String: ", x)
+
