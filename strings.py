@@ -33,4 +33,13 @@ print("swapcase:",m.swapcase())
 print("length:",len(m))
 print("replace:",m.replace("World","Universe"))
 print("count:",m.count(c))
+print("Startswith:",m.startswith("Its"))
+print("Endswith:", m.endswith("world"))
+print("Split",m.split())
+print("find:",m.find("'"))
+print("Is All Alhpanumerical",m.isalnum())
+print("Is alphabetic",m.isalpha())
+print("is numeric:",m.istitle())
+
+
 
